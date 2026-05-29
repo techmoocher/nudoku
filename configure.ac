@@ -1,8 +1,8 @@
-#                                               -*- Autoconf -*-
+###### AUTOCONF ######
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([nudoku], [8.0.0], [jubalh@iodoru.org])
+AC_INIT([sudokun], [1.0.0], [ima.techmoocher@gmail.com])
 AC_CONFIG_SRCDIR([src/main.c])
 AC_CONFIG_MACRO_DIRS([m4])
 AM_INIT_AUTOMAKE([foreign])
